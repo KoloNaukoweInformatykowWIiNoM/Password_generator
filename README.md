@@ -1,1 +1,1 @@
-Generator i menadżer haseł
+Generuj i przechowuj bezpiecznie hasła na swoim komputerze
